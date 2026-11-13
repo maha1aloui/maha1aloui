@@ -8,8 +8,9 @@
 
 ![ESPRIT](https://img.shields.io/badge/ESPRIT-Ing%C3%A9nieur%20Data%20Science-0f2027?style=for-the-badge)
 ![Le Mans](https://img.shields.io/badge/Universit%C3%A9%20du%20Mans-Master%202%20Actuariat%20(IRA)-2c5364?style=for-the-badge)
+![Localisation](https://img.shields.io/badge/Localisation-Nanterre%2C%20%C3%8Ele--de--France%20%C2%B7%20d%C3%A8s%20janv.%202027-2c5364?style=for-the-badge)
+
 ![Open](https://img.shields.io/badge/Recherche-Stage%20%2F%20Alternance-2ea44f?style=for-the-badge)
-![Localisation](https://img.shields.io/badge/Nanterre%2C%20%C3%8Ele--de--France-d%C3%A8s%20janvier%202027-0f2027?style=for-the-badge)
 
 </div>
 
