@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50%:203a43,100%:2c5364&height=200&section=header&text=Maha%20Aloui&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%26%20Actuariat%20%7C%20IA%20appliqu%C3%A9e%20Banque%20%26%20Assurance&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Maha%20Aloui&fontSize=58&fontColor=ffffff&desc=Data%20Science%20%26%20Actuariat%20%7C%20IA%20Banque%20%26%20Assurance&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C5364&center=true&vCenter=true&width=700&lines=Mod%C3%A9lisation+du+risque+de+cr%C3%A9dit;D%C3%A9tection+d'anomalies;Analyse+pr%C3%A9dictive+et+automatisation+IA;Gestion+quantitative+des+risques" alt="Typing SVG" />
 
@@ -9,6 +9,7 @@
 ![ESPRIT](https://img.shields.io/badge/ESPRIT-Ing%C3%A9nieur%20Data%20Science-0f2027?style=for-the-badge)
 ![Le Mans](https://img.shields.io/badge/Universit%C3%A9%20du%20Mans-Master%202%20Actuariat%20(IRA)-2c5364?style=for-the-badge)
 ![Open](https://img.shields.io/badge/Recherche-Stage%20%2F%20Alternance-2ea44f?style=for-the-badge)
+![Localisation](https://img.shields.io/badge/Nanterre%2C%20%C3%8Ele--de--France-d%C3%A8s%20janvier%202027-0f2027?style=for-the-badge)
 
 </div>
 
