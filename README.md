@@ -7,7 +7,7 @@
 <br/>
 
 ![ESPRIT](https://img.shields.io/badge/ESPRIT-Ing%C3%A9nieur%20Data%20Science-0f2027?style=for-the-badge)
-![Le Mans](https://img.shields.io/badge/Universit%C3%A9%20du%20Mans-Master%20Actuariat%20(IRA)-2c5364?style=for-the-badge)
+![Le Mans](https://img.shields.io/badge/Universit%C3%A9%20du%20Mans-Master%202%20Actuariat%20(IRA)-2c5364?style=for-the-badge)
 ![Open](https://img.shields.io/badge/Recherche-Stage%20%2F%20Alternance-2ea44f?style=for-the-badge)
 
 </div>
@@ -19,7 +19,7 @@ Passionnée par l'exploitation de l'intelligence artificielle et de l'analyse pr
 - Modélisation du risque de crédit
 - Détection d'anomalies
 - Analyse prédictive et automatisation basée sur l'IA
-- Double diplôme en Actuariat avec l'Université du Mans
+- **Master 2 en Actuariat** (double diplôme) à l'Université du Mans
 
 Je recherche des opportunités en **Data Science**, **Quantitative Risk** et **Actuarial Analytics**.
 
